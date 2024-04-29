@@ -12,16 +12,9 @@ Step 3 : Extract the project zip file
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Step 4 : Install Following Packages from cmd (Copy and paste following commands one-by-one in cmd prompt) :
+Step 4 : Install Following Packages from cmd (Copy and paste following command in cmd prompt) :
 
-pip insall numpy
-pip install Pillow
-pip install tk
-pip install pandas
-pip install opencv-python
-pip install opencv-contrib-python
-pip install mysql-connector-python
-pip install cx-Freeze
+pip install numpy Pillow tk pandas opencv-python opencv-contrib-python mysql-connector-python cx-Freeze
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
